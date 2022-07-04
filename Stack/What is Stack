@@ -1,1 +1,11 @@
+Stack is a linear data structure that follows the Principal of Last in First out (LIFO).
+TOP:-
+-> Stack is a liner list in which all insertions and deletion are performe at only one end,which is called the TOP.
 
+Push() & Pop() :-
+-> The insertions and deletion operation are given spacal name in case of stack the Push() operation insert the element in thae stack and Pop() operation delete an element from the stack.
+
+Overflow:-
+-> 
+
+Underflow:-
