@@ -84,7 +84,7 @@ int main()
 {
    // struct node *top;
     printf("\nHii welcome to my program\n\n");
-    int choice,data;
+    int choice;
     while(1)
     {
         printf("\nEnter press 0 for exit this program\n");
@@ -116,9 +116,7 @@ int main()
                 break;
             default:
                 printf("wring choice!!\nPlease Enter the valid input\n");
-                goto lable;
-
-            
+                goto lable;   
         }
     }
     return 0;
